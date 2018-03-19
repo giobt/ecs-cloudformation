@@ -1,7 +1,7 @@
 # Demo AWS ECS
 ## Instrucciones:
 1. clonar repositorio:
-  `git clone _git@github.com:giobt/ecs-cloudformation.git_`
+  `git clone git@github.com:giobt/ecs-cloudformation.git`
 2. subir archivos a s3
 3. copiar url del archivo _ecs-ec2.yml_
 4. ejecutar en CloudFormation
